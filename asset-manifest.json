@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ketthucmon_QBao/static/css/main.8be1bbc0.css",
+    "main.js": "/Ketthucmon_QBao/static/js/main.8cb9f12b.js",
+    "static/media/slick.svg": "/Ketthucmon_QBao/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ketthucmon_QBao/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ketthucmon_QBao/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Ketthucmon_QBao/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Ketthucmon_QBao/index.html",
+    "main.8be1bbc0.css.map": "/Ketthucmon_QBao/static/css/main.8be1bbc0.css.map",
+    "main.8cb9f12b.js.map": "/Ketthucmon_QBao/static/js/main.8cb9f12b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be1bbc0.css",
+    "static/js/main.8cb9f12b.js"
+  ]
+}
